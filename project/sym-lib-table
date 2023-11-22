@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "Video_filter")(type "KiCad")(uri "${KIPRJMOD}/Video_filter.kicad_sym")(options "")(descr ""))
+)
