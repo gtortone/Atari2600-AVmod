@@ -21,8 +21,8 @@ Atari 2600 AV mod based on Longhorn A/V mod
 |1|R8|2k|Device:R|Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal|
 |1|R9|10|Device:R|Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal||
 |10|R10, R11, R12, R13, R14, R15, R16, R17, R18, R19|75|Device:R|Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal|
-|1|U1|4050|4xxx:4050|Package_DIP:DIP-16_W7.62mm|
-|1|U2|~|Video_filter:FMS6410|Package_SO:SOIC-8_3.9x4.9mm_P1.27mm|
+|1|U1|CD74HC4050|4xxx:4050|Package_DIP:DIP-16_W7.62mm|
+|1|U2|FMS6410|Video_filter:FMS6410|Package_SO:SOIC-8_3.9x4.9mm_P1.27mm|
 
 ## Schematic and PCB
 
